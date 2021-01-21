@@ -1,0 +1,106 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ToPlay.cpp
+  ToDraw.cpp
+  SelectAction.cpp
+  SaveByType.cpp
+  Save.cpp
+  PasteAction.cpp
+  main.cpp
+  Load.cpp
+  ApplicationManager.cpp
+  Output.cpp
+  Input.cpp
+  AddRectAction.cpp
+  CRectangle.cpp
+  CFigure.cpp
+  ExitAction.cpp
+  Delete.cpp
+  CutAction.cpp
+  CTriangle.cpp
+d:\univ\univ projects\programming\team_l3\ctriangle.cpp(21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  CRhombus.cpp
+d:\univ\univ projects\programming\team_l3\crhombus.cpp(20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  CopyAction.cpp
+  Generating Code...
+  Compiling...
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\image.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  colors.cpp
+  CMUgraphics.cpp
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\cmugraphics.cpp(257): warning C4101: 'iX': unreferenced local variable
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\cmugraphics.cpp(257): warning C4101: 'iY': unreferenced local variable
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\cmugraphics.cpp(751): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\cmugraphics.cpp(1164): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\cmugraphics.cpp(1171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\cmugraphics.cpp(1202): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\cmugraphics.cpp(1210): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\cmugraphics.cpp(1357): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  CLine.cpp
+d:\univ\univ projects\programming\team_l3\cline.cpp(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\univ\univ projects\programming\team_l3\cline.cpp(27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\univ\univ projects\programming\team_l3\cline.cpp(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\univ\univ projects\programming\team_l3\cline.cpp(70): warning C4101: 'a': unreferenced local variable
+  ChangeOutline.cpp
+  ChangeFill.cpp
+  CEllipse.cpp
+  ByFigure.cpp
+  ByColor.cpp
+  AddTriAction.cpp
+  AddRhombusAction.cpp
+  AddLineAction.cpp
+  AddEllAction.cpp
+  Generating Code...
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\jpeg\jmemmgr.c(1103): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1191): note: see declaration of 'getenv'
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\jpeg\jmemmgr.c(1106): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\jpeg\jerror.c(169): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\jpeg\jerror.c(171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+d:\univ\univ projects\programming\team_l3\cmugraphicslib\jpegload.c(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...
+AddEllAction.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PT-Project.vcxproj -> D:\Univ\univ projects\Programming\Team_L3\.\Debug\PT Project.exe
